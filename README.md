@@ -285,12 +285,12 @@
                 <p>Health Coach</p>
             </div>
             <div class="team-member">
-                <img src="C:\UNESA\futurefit\rena foto.jpg" alt="Team Member 2">
+                <img src="https://github.com/marsaazrani/futurefitss/blob/main/rena%20foto.jpg?raw=true" alt="Team Member 2">
                 <h3>Renasabylla Putri</h3>
                 <p>Nutritionist</p>
             </div>
             <div class="team-member">
-                <img src="C:\UNESA\futurefit\sasi foto.jpg" alt="Team Member 3">
+                <img src="https://github.com/marsaazrani/futurefitss/blob/main/sasi%20foto.jpg?raw=true" alt="Team Member 3">
                 <h3>Ni Luh Kadek Tri Sasi</h3>
                 <p>Fitness Trainer</p>
             </div>

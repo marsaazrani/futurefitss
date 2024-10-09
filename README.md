@@ -280,7 +280,7 @@
         <p>We are committed to constantly updating our content with the latest and most reliable information. Our team of health experts, fitness trainers and nutritionists are ready to give you the best guidance. We invite you to join our community and start your journey towards a healthier and happier life. Thank you for visiting FutureFit. Let's move towards a healthier and happier life together!</p>
         <div class="team-container">
             <div class="team-member">
-                <img src="C:\UNESA\futurefit\marsa foto.jpg" alt="Team Member 1">
+                <img src="https://github.com/marsaazrani/futurefitss/blob/main/marsa%20foto.jpg?raw=true" alt="Team Member 1">
                 <h3>Marsa Azrani</h3>
                 <p>Health Coach</p>
             </div>
